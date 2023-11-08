@@ -48,5 +48,5 @@ Si deseas contribuir a este proyecto o tienes alguna sugerencia, no dudes en hac
 
 ## Licencia
 
-Este proyecto se encuentra bajo la licencia [nombre de la licencia]. Para obtener más detalles, consulta el archivo [LICENSE.md]([LICENSE.md](https://raw.githubusercontent.com/DIP-IGAC/.github/main/LICENSE)https://raw.githubusercontent.com/DIP-IGAC/.github/main/LICENSE).
+Este proyecto se encuentra bajo la licencia [GNU GENERAL PUBLIC LICENSE]. Para obtener más detalles, consulta el archivo [LICENSE.md]([LICENSE.md](https://raw.githubusercontent.com/DIP-IGAC/.github/main/LICENSE)https://raw.githubusercontent.com/DIP-IGAC/.github/main/LICENSE).
 
