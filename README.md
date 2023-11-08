@@ -23,7 +23,7 @@ Hemos identificado varios tipos de prospectiva que son pertinentes para el IGAC.
 - Prospectiva estratégica.
 - Prospectiva participativa.
 <p align="center">
-  <img src="[https://www.ejemplo.com/imagen.png](https://revistageodata.icde.gov.co/sites/default/files/2022-06/grafica-prospectiva.jpg)" alt="Ejemplo de imagen centrada">
+  <img src="[img](https://revistageodata.icde.gov.co/sites/default/files/2022-06/grafica-prospectiva.jpg)" alt="Ejemplo de imagen centrada">
 </p>
 
 ## Beneficios de la Prospectiva
