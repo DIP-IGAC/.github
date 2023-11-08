@@ -22,6 +22,9 @@ Hemos identificado varios tipos de prospectiva que son pertinentes para el IGAC.
 - Prospectiva normativa.
 - Prospectiva estratégica.
 - Prospectiva participativa.
+<p align="center">
+  <img src="[https://www.ejemplo.com/imagen.png](https://revistageodata.icde.gov.co/sites/default/files/2022-06/grafica-prospectiva.jpg)" alt="Ejemplo de imagen centrada">
+</p>
 
 ## Beneficios de la Prospectiva
 
@@ -48,5 +51,5 @@ Si deseas contribuir a este proyecto o tienes alguna sugerencia, no dudes en hac
 
 ## Licencia
 
-Este proyecto se encuentra bajo la licencia **GNU GENERAL PUBLIC LICENSE**. Para obtener más detalles, consulta el archivo [LICENSE.md]([LICENSE.md](https://raw.githubusercontent.com/DIP-IGAC/.github/main/LICENSE)https://raw.githubusercontent.com/DIP-IGAC/.github/main/LICENSE).
+Este proyecto se encuentra bajo la licencia **GNU GENERAL PUBLIC LICENSE**. Para obtener más detalles, consulta el archivo [LICENSE.md](https://raw.githubusercontent.com/DIP-IGAC/.github/main/LICENSE).
 
